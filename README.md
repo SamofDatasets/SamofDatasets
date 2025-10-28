@@ -32,7 +32,7 @@ These aren’t just repositories — they’re real-world analytics solutions bu
 ## 🗣️ What Others Say
 
 > *“Samuel has a rare gift of combining analytical depth with clear communication. He doesn't just give you the numbers — he tells you what they mean.”*  
-> — Mentor, Octave Analytics
+> — Mentor, Internpulse
 
 > *“His dashboards helped us shift our strategy mid-quarter and hit our targets.”*  
 > — Former Team Lead, Business Operations
