@@ -31,7 +31,7 @@ These aren’t just repositories — they’re real-world analytics solutions bu
 
 ## 🗣️ What Others Say
 
-> *“Samuel has a rare gift of combining analytical depth with clear communication. He doesn't just give you the numbers — he tells you what they mean.”*  
+> *“Samuel has a rare gift of combining analytical depth with clear communication. He gives you the numbers and tells you what they mean.”*  
 > — Mentor, Internpulse
 
 > *“His dashboards helped us shift our strategy mid-quarter and hit our targets.”*  
