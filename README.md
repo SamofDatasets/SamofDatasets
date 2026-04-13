@@ -1,41 +1,34 @@
-# 👋 Hey there, I'm Samuel Kayode
+# Hi, I'm Samuel Kayode 👋
 
-💻 Data Analyst | 📊 Data Science & Machine Learning Enthusiast
+**MSc Data Science Student | Data Analyst | Python | SQL | Power BI**
 
-I am an experienced Data Analyst with over 5 years of expertise in data management, analysis, and visualization. Skilled in Python, SQL, Excel, Power BI, Tableau, and R, I specialize in turning complex data into actionable insights that drive strategic business decisions across healthcare, finance, and retail sectors.
+I'm a data analyst and MSc Data Science student at Northumbria University, with hands-on experience working with real-world datasets across healthcare, finance, and operations. I enjoy the full data process, from messy raw data to clear, actionable insights that actually mean something to the people who need them.
 
-## 🧠 What I’m Into
-- Exploring data with Python & SQL
-- Data collection, Data cleaning and preprocessing, Data analysis, Data visualization, Model development, Insight generation, Storytelling with Data.
-- Building and improving ML models
-- Tackling real-world problems through data
+## 🛠️ Tools & Technologies
 
-## 🚀 Highlight Projects
+- **Languages:** Python, SQL, R
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Visualisation:** Power BI (DAX, Star Schema), Excel
+- **Other:** Power Query, Git, VS Code, Jupyter
 
-These aren’t just repositories — they’re real-world analytics solutions built with purpose and impact in mind. Take a closer look:
+## 🚀 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🏥 [Healthcare Analytics Dashboard](https://github.com/SamofDatasets/healthcare-analytics-dashboard) | Developed an interactive Power BI dashboard for healthcare analytics, covering financial KPIs, provider performance, and patient trends | Power BI, Excel |
+| 🏥 [Hospital Financial & Operational Analytics Dashboard](https://github.com/SamofDatasets/healthcare-analytics-dashboard) | Multi-page dashboard analysing hospital revenue, provider performance and patient trends across an 8-table star schema | Power BI, Excel, SQL |
 | 🗃️ [SQL Data Warehouse Project](https://github.com/SamofDatasets/sql-data-warehouse-project) | Built a modern SQL Server data warehouse with dimensional modeling, optimized ETL pipelines, and structured reporting layers to enable data-driven decision-making. | SQL Server, dbt, ETL |
 | 📈 [Advanced SQL Data Analytics](https://github.com/SamofDatasets/sql-data-analytics-project) | A professional collection of SQL scripts solving real-world business problems including KPI tracking, time-series analysis, segmentation, and database audits. | SQL, PostgreSQL/MySQL |
 
-> 👉 *Explore more on my [Repositories page](https://github.com/SamofDatasets?tab=repositories)* for detailed documentation and use cases.
+> 👉 *See all my projects on my [Repositories page](https://github.com/SamofDatasets?tab=repositories)* for detailed documentation and use cases.
 
-## 🛠️ Tools & Tech I Use
-- Languages: Python, SQL
-- Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-- Tools: Jupyter, Git, VS Code
-- Visualization: Tableau, Power BI
-- Spreadsheet: Excel
+## 🧠 What I Work On
 
-## 🗣️ What Others Say
+- Exploratory data analysis and statistical modelling
+- Building dashboards and visualisations that communicate findings clearly
+- Cleaning and structuring messy real-world datasets
+- Applying machine learning to structured data problems
+- Writing reports that translate analytical outputs for non-technical audiences
 
-> *“Samuel has a rare gift of combining analytical depth with clear communication. He gives you the numbers and tells you what they mean.”*  
-> — Mentor, Internpulse
-
-> *“His dashboards helped us shift our strategy mid-quarter and hit our targets.”*  
-> — Former Team Lead, Business Operations
 
 ## 🤝 Let’s Connect!
 I'm always open to collaborating on data-driven projects or chatting about analytics, storytelling, or the future of data.
@@ -45,5 +38,4 @@ I'm always open to collaborating on data-driven projects or chatting about analy
 
 ---
 
-⭐ **If you’ve made it this far, thanks for visiting!**  
-Feel free to explore my projects or shoot me a message. Let’s turn data into impact.
+⭐ *Thanks for stopping by — feel free to explore the projects or reach out.*
