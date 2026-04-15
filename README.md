@@ -16,8 +16,8 @@ I'm a data analyst and MSc Data Science student at Northumbria University, with 
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🏥 [Hospital Financial & Operational Analytics Dashboard](https://github.com/SamofDatasets/healthcare-analytics-dashboard) | Multi-page dashboard analysing hospital revenue, provider performance and patient trends across an 8-table star schema | Power BI, Excel, SQL |
-| 🗃️ [SQL Data Warehouse Project](https://github.com/SamofDatasets/sql-data-warehouse-project) | Built a modern SQL Server data warehouse with dimensional modeling, optimized ETL pipelines, and structured reporting layers to enable data-driven decision-making. | SQL Server, dbt, ETL |
 | 📈 [Advanced SQL Data Analytics](https://github.com/SamofDatasets/sql-data-analytics-project) | A professional collection of SQL scripts solving real-world business problems including KPI tracking, time-series analysis, segmentation, and database audits. | SQL, PostgreSQL/MySQL |
+| 🗃️ [SQL Data Warehouse Project](https://github.com/SamofDatasets/sql-data-warehouse-project) | Built a modern SQL Server data warehouse with dimensional modeling, optimized ETL pipelines, and structured reporting layers to enable data-driven decision-making. | SQL Server, dbt, ETL |
 
 > 👉 *See all my projects on my [Repositories page](https://github.com/SamofDatasets?tab=repositories)* for detailed documentation and use cases.
 
