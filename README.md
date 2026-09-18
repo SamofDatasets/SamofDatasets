@@ -1,8 +1,8 @@
 # Hi, I'm Samuel Kayode 👋
 
-**MSc Data Science Student | Data Analyst | Python | SQL | Power BI**
+**Data Analyst | Power BI Developer | Python | SQL**
 
-I'm a data analyst and MSc Data Science student at Northumbria University, with hands-on experience working with real-world datasets across healthcare, finance, and operations. I enjoy the full data process, from messy raw data to clear, actionable insights that actually mean something to the people who need them.
+I'm a Data Analyst with an MSc in Data Science, and hands-on experience working with real-world datasets across healthcare, finance, and operations. I enjoy the full data process, from messy raw data to clear, actionable insights that actually mean something to the people who need them.
 
 ## 🛠️ Tools & Technologies
 
